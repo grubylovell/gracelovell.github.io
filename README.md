@@ -11,8 +11,8 @@ From January to May 2023, I was a member of the Hardware Integration Team for Hu
 [Publication*](https://www.aa.washington.edu/news/article/2023-05-18/UW-startup-freyr-is-golden)
 
 *I was on the drone build team, and not on the business team who competed in the challenge.
-![Progress](/assets/img/resize_freewing_progress.png)
-![Final](/assets/img/resize_freewing_final.png)
+
+<img src="/assets/img/resize_freewing_progress.png" height="350"> <img src="/assets/img/resize_freewing_final.png" height="350">
 
 ## Skills
 - Innovative team leadership demonstrated by expansion of technical clubs: i5 Space, Husky Flying Club
