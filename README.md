@@ -12,7 +12,13 @@ From January to May 2023, I was a member of the Hardware Integration Team for Hu
 
 *I was on the drone build team, and not on the business team who competed in the challenge.
 
-<img src="assets/img/resize_freewing_progress.png" height="350"> <img src="assets/img/resize_freewing_final.png" height="350">
+![Freewing](/assets/img/freewing_pics.png)
+
+<!-- This doesn't work: ![Bike Study](/assets/img/resize_freewing_progress.png|width=100px)
+
+This works but the image dimensions do nothing: ![img|100x100](/assets/img/resize_freewing_progress.png)
+
+This works in the preview but won't show up on the site: <img src="/assets/img/resize_freewing_progress.png" height="350"> <img src="assets/img/resize_freewing_final.png" height="350"> -->
 
 ## Skills
 - Innovative team leadership demonstrated by expansion of technical clubs: i5 Space, Husky Flying Club
