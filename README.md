@@ -6,7 +6,7 @@ I'm planning to build a 4-inch LOC-IV rocket with a DMS H100 motor and obtain my
 
 ### RV-12 Light Sport Aircraft Build
 
-At HFC, we are building the first piloted airplane at the University of Washington. I am part of a team of over 40 members building the plane using a kit purchased from Vans Aircraft. This project that will continue into 2025. 
+At HFC, we are building the first piloted airplane at the University of Washington. I am part of a team of over 40 members building the plane using a kit purchased from Vans Aircraft. This project will continue into 2025. 
 
 ![RV-12 Skeleton](/assets/img/RV12.jpg)
 ### Freewing Experimental Aircraft Build
