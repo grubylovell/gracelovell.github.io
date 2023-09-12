@@ -8,9 +8,9 @@ I'm planning to build a 4-inch LOC-IV rocket with a DMS H100 motor and obtain my
 
 From January to May 2023, I was a member of the Hardware Integration Team for Husky Flying Club's Freewing Drone Build Project. The four-meter experimental drone has front wings that can freely rotate on their axis, giving the drone’s center of gravity mobility along its length. Designed for aerial agricultural fertilization, the drone won the $15,000 prize in the 2023 Alaska Airlines Environmental Innovation Challenge. I developed proficiency in the following tools to machine and assemble its aluminum frame: vertical drill press, horizontal bandsaw, belt sander, and rivet gun. I also designed and built the foam nose cone using a hot wire bow cutter. 
 
-[Publication*](https://www.aa.washington.edu/news/article/2023-05-18/UW-startup-freyr-is-golden)
+[Article*](https://www.aa.washington.edu/news/article/2023-05-18/UW-startup-freyr-is-golden)
 
-*I participated on the drone build team and not on the business team that competed in the challenge.
+*I was part of the drone build team and not the business team that competed in the challenge.
 
 ![Freewing Progress](/assets/img/freewing_progress_resize.jpg) ![Freewing Final](/assets/img/freewing_final_resize.jpg)
 
@@ -45,6 +45,7 @@ Husky Flying Club, University of Washington, Seattle
 - Collaborated with GEAR Up and Society of Women Engineers to provide engineering exposure to 40 low-income female high school students
 - Organized safety meetings and recruiting events for 223 members
 - Featured on UW News Page: The Daily as an example of early career leadership
+  - [Article](https://www.dailyuw.com/arts_and_culture/community/giving-huskies-wings-revisiting-the-husky-flying-club/article_8c1359e4-e331-11ed-ab67-a304da6d2216.html#:~:text=The%20Husky%20Flying%20Club%20started,to%20%E2%80%9Cgive%20Huskies%20wings.%E2%80%9D)
 
 **i5 Commander (_March 2023 – Present_)**
 
