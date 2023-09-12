@@ -8,7 +8,7 @@ I'm planning to build a 4-inch LOC-IV rocket with a DMS H100 motor and obtain my
 
 At HFC, we are building the first piloted airplane at the University of Washington. I am part of a team of over 40 members building the plane using a kit purchased from Vans Aircraft. This project that will continue into 2025. 
 
-[RV-12 Skeleton](/assets/img/RV12.jpg)
+![RV-12 Skeleton](/assets/img/RV12.jpg)
 ### Freewing Experimental Aircraft Build
 
 From January to May 2023, I was a member of the Hardware Integration Team for Husky Flying Club's Freewing Drone Build Project. The four-meter experimental drone has front wings that can freely rotate on their axis, giving the drone’s center of gravity mobility along its length. Designed for aerial agricultural fertilization, the drone won the $15,000 prize in the 2023 Alaska Airlines Environmental Innovation Challenge. I developed proficiency in the following tools to machine and assemble its aluminum frame: vertical drill press, horizontal bandsaw, belt sander, and rivet gun. I also designed and built the foam nose cone using a hot wire bow cutter. 
