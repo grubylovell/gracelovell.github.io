@@ -1,5 +1,5 @@
 title: Grace Lovell
-logo: /assets/img/smaller Circle Senior Portrait.png
+logo: <img src="/assets/img/smaller Circle Senior Portrait.png" height="250">
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
