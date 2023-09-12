@@ -40,7 +40,7 @@ This works in the preview but won't show up on the site: <img src="/assets/img/r
 ## Leadership
 **Director of Engineering (_November 2023 – Present_)**
 
-Husky Flying Club, University of Washington, Seattle
+Husky Flying Club, University of Washington, Seattle, WA
 - Initiated a space-focused branch of the engineering team by coordinating facility tours with Blue Origin and developing space-oriented engineering projects such as rocketry
 - Collaborated with GEAR Up and Society of Women Engineers to provide engineering exposure to 40 low-income female high school students
 - Organized safety meetings and recruiting events for 223 members
@@ -49,21 +49,21 @@ Husky Flying Club, University of Washington, Seattle
 
 **i5 Commander (_March 2023 – Present_)**
 
-i5 Space, AFROTC Detachment 910
+i5 Space, AFROTC Detachment 910, Seattle, WA
 - Established the first chapter of i5 Space Club at the University of Washington
 - Coordinated a series of informative meetings with Space Force professionals to equip a team of 11 cadets with comprehensive career insights
 
 ## Work Experience
 **Website Developer (_August 2022 - Present_)** 
 
-Academy of Lacey
+Academy of Lacey, Lacey, WA
 - Provide reliable service in management of over 100 websites owned by Washington State government agencies
 - Learn and utilize the Linux command line, Git, CSS, HTML, and JavaScript
 
 ## Extracurricular
 **Alto Saxophonist (_August 2022 - Present_)**
 
-Husky Marching Band, University of Washington, Seattle
+Husky Marching Band, University of Washington, Seattle, WA
 - Devote 8 to 15 hours weekly to rehearsal and performance of advanced music and drill sequences
 - Cultivate skills of preparation and cooperation to effectively collaborate with an ensemble of 240 musicians
 
