@@ -12,7 +12,8 @@ From January to May 2023, I was a member of the Hardware Integration Team for Hu
 
 *I was on the drone build team, and not on the business team who competed in the challenge.
 
-![Freewing](/assets/img/freewing_pics.png)
+![Freewing Progress](/assets/img/freewing_progress_resize.jpg) ![Freewing Final](/assets/img/freewing_final_resize.jpg)
+
 
 <!-- This doesn't work: ![Bike Study](/assets/img/resize_freewing_progress.png|width=100px)
 
