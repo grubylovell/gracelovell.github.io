@@ -41,7 +41,7 @@ This works in the preview but won't show up on the site: <img src="/assets/img/r
 **Director of Engineering (_November 2023 – Present_)**
 
 Husky Flying Club, University of Washington, Seattle
-- Initiated a space-focused branch of the engineering team by coordinating facility tours with Blue Origin and developing space-oriented engineering projects such as model rocketry
+- Initiated a space-focused branch of the engineering team by coordinating facility tours with Blue Origin and developing space-oriented engineering projects such as rocketry
 - Collaborated with GEAR Up and Society of Women Engineers to provide engineering exposure to 40 low-income female high school students
 - Organized safety meetings and recruiting events for 223 members
 - Featured on UW News Page: The Daily as an example of early career leadership
