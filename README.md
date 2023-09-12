@@ -1,4 +1,4 @@
-# Student
+# Aerospace Engineering Student
 ## Projects
 ### What I'm Currently Working On: Rocket Build for High Powered Rocketry Certification
 
