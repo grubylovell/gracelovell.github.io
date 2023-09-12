@@ -10,7 +10,7 @@ From January to May 2023, I was a member of the Hardware Integration Team for Hu
 
 [Publication*](https://www.aa.washington.edu/news/article/2023-05-18/UW-startup-freyr-is-golden)
 
-*I was on the drone build team, and not on the business team who competed in the challenge.
+*I was on the drone build team and not on the business team who competed in the challenge.
 
 ![Freewing Progress](/assets/img/freewing_progress_resize.jpg) ![Freewing Final](/assets/img/freewing_final_resize.jpg)
 
