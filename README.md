@@ -2,15 +2,15 @@
 ## Projects
 ### What I'm Currently Working On: Rocket Build for High Powered Rocketry Certification
 
-I'm planning to build a 4-inch LOC-IV rocket with a DMS H100 motor and obtain my Level 1 High Powered Rocketry Certification. I'll then lead my i5 Space team in obtaining their certification as well as an exploration of space technology to deepen our understanding of the space domain.
+I'm planning to build a 4-inch LOC-IV rocket with a DMS H100 motor and obtain my Level 1 High Powered Rocketry Certification. I'll then lead the Husky Flying Club (HFC) Engineering Team in obtaining their certifications. Currently, HFC is a club focused on aviation and aeronautical technology. With projects like these, I am expanding the scope of exploration we offer to our members to include space technology. Our rocket build project will deepen our members' knowledge and passion for the space domain.
 
 ### Freewing Experimental Aircraft Build
 
-From January to May 2023, I was a member of the Hardware Integration Team for Husky Flying Club's Freewing Drone Build Project. The two-meter experimental drone has front wings that can freely rotate on their axis, giving the drone’s center of gravity mobility along its length. Designed for aerial agricultural fertilization, the drone won the $15,000 prize in the Alaska Airlines Environmental Innovation Challenge. I developed proficiency in the following tools to machine and assemble its aluminum frame: vertical drill press, horizontal bandsaw, belt sander, and rivet gun. I also designed and built the foam nose cone using a hot wire bow cutter. 
+From January to May 2023, I was a member of the Hardware Integration Team for Husky Flying Club's Freewing Drone Build Project. The four-meter experimental drone has front wings that can freely rotate on their axis, giving the drone’s center of gravity mobility along its length. Designed for aerial agricultural fertilization, the drone won the $15,000 prize in the 2023 Alaska Airlines Environmental Innovation Challenge. I developed proficiency in the following tools to machine and assemble its aluminum frame: vertical drill press, horizontal bandsaw, belt sander, and rivet gun. I also designed and built the foam nose cone using a hot wire bow cutter. 
 
 [Publication*](https://www.aa.washington.edu/news/article/2023-05-18/UW-startup-freyr-is-golden)
 
-*I was on the drone build team and not on the business team who competed in the challenge.
+*I participated on the drone build team and not on the business team that competed in the challenge.
 
 ![Freewing Progress](/assets/img/freewing_progress_resize.jpg) ![Freewing Final](/assets/img/freewing_final_resize.jpg)
 
@@ -29,7 +29,7 @@ This works in the preview but won't show up on the site: <img src="/assets/img/r
 
 ## Education
 **B.S., Aerospace Engineering | University of Washington, Seattle (_E.C.D. June 2026_)**
-- GPA: 3.85
+- GPA: 3.87
 - Air Force ROTC HSSP Full Tuition Scholarship, MSgt James Healy Scholarship, College of Engineering Dean's List
 
 **Study Abroad - Engineering Japan: Exploring in the Heart of High-Tech | Tohoku University in Sendai, Japan (_June 2023 – July 2023_)**
