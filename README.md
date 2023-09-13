@@ -1,4 +1,4 @@
-# Aerospace Engineering Student
+# Portfolio
 ## Projects
 ### Upcoming: Rocket Build for High Powered Rocketry Certification
 
