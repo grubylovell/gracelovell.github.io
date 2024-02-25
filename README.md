@@ -4,7 +4,7 @@
 
 Below is the quad chart for my idea that was selected by a NASA review board to move foward as a proposal. I will work as the Principal Investigator on a team of 12 student engineers over the next month to refine this idea and compete for chance to develop the technology with NASA.
 
-![Quad Chart](/assets/img/Quad_Chart_Screensh
+![Quad Chart](/assets/img/Quad_Chart_Screenshot.png)
 ### RV-12 Light Sport Aircraft Build
 
 At HFC, we are building the first manned airplane at the University of Washington. I am part of a team of over 40 members building the plane using a kit purchased from Vans Aircraft. This project will continue into 2025. After its completion and certification by an FAA inspector, seniors and graduate students will perform capstone research on the interior and user interface. 
